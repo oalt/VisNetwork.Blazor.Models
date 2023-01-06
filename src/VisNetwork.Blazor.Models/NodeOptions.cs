@@ -45,7 +45,7 @@ public class NodeOption
     /// Defines the font of the label.
     /// Note: JS lib supports both string and object.
     /// </summary>
-    public string? Font { get; set; }
+    public NodeFontOption? Font { get; set; }
 
     /// <summary>
     /// When not null, the node will belong to the defined group. 
@@ -262,6 +262,12 @@ public class NodeFixedOption
     public bool Y { get; set; }
 }
 
+public class NodeFontOption
+{
+    public bool? Multi { get; set; }
+
+
+}
 
 public class NodeHeightConstraint
 {
