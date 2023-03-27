@@ -13,6 +13,7 @@
         <PackageTags>VisNetwork Blazor DataModels</PackageTags>
         <Description>Data models for VisNetwor.Blazor UI component</Description>
         <Copyright>© MDD4All.de</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
