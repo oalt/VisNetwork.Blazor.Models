@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
       <LangVersion>10.0</LangVersion>
-    <RootNamespace>$(MSBuildProjectName.Replace("-dev", ""))</RootNamespace>
-    <AssemblyName>$(MSBuildProjectName.Replace("-dev", ""))</AssemblyName>
+    <RootNamespace>VisNetwork.Blazor.Models</RootNamespace>
+    <AssemblyName>MDD4All.VisNetwork.Blazor.Models</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

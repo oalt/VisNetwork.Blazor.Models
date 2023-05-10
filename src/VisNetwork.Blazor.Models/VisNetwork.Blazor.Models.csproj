@@ -14,6 +14,8 @@
         <Description>Data models for VisNetwor.Blazor UI component</Description>
         <Copyright>© MDD4All.de</Copyright>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RootNamespace>VisNetwork.Blazor.Models</RootNamespace>
+        <AssemblyName>MDD4All.VisNetwork.Blazor.Models</AssemblyName>
     </PropertyGroup>
 
     <ItemGroup>
